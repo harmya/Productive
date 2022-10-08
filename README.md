@@ -1,2 +1,2 @@
 # Productive
-![](bruh.jpg)
+![](bruh.jpeg)
