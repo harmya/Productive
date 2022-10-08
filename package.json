@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "npm install --prefix backend && node server.js --prefix backend",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+  }
+}
