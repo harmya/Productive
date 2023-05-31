@@ -1,5 +1,5 @@
 # Productive
 
 Demo:
-![me}(https://github.com/harmya/Productive/blob/master/productive.gif)
+![Alt Text](https://github.com/harmya/Productive/blob/master/productive.gif)
 
