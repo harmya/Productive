@@ -13,6 +13,6 @@ Task Creation: Users can add tasks to their projects. Each task includes a title
 
 Timer Tracking: Users can start and stop timers for each task, enabling them to track the amount of time spent on a particular task. The timer automatically keeps track of the duration and updates in real-time.
 
-Demo: <br> <br> <br> 
+Demo: <br> <br>
 ![Alt Text](https://github.com/harmya/Productive/blob/master/productive.gif)
 
